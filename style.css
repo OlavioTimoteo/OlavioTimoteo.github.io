@@ -1,0 +1,23 @@
+body {
+    background-color: #caf0f8;
+}
+
+#nome {
+    text-align: center;
+}
+
+#descricao {
+    font-size: 20px;
+}
+
+.habilidades1 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.habilidades2 {
+    font-size: 18px;
+}
