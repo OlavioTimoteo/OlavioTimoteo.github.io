@@ -1,13 +1,17 @@
 body {
     background-color: #caf0f8;
+    padding: 1%;
 }
 
-#nome {
+.nome {
     text-align: center;
 }
 
-#descricao {
+.descricao {
     font-size: 20px;
+    position: absolute;
+    top: 30%;
+    right: 1px;
 }
 
 .habilidades1 {
@@ -20,4 +24,28 @@ h3 {
 
 .habilidades2 {
     font-size: 18px;
+}
+
+#minha-foto {
+    float: left;
+    height: 300px;
+    border-radius: 200px;
+}
+
+.image-container {
+    height: 300px;
+    position: relative;
+}
+
+.links {
+    position: relative;
+    height: 50px;
+    text-align: left;
+    padding-left: 90px;
+    line-height: 50px;
+}
+
+.links a {
+    text-decoration: none;
+    color: blue;
 }
